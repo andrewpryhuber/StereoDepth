@@ -1,2 +1,5 @@
 #vscode config files
-*.vscode
+.vscode/*
+
+#executable
+.out
